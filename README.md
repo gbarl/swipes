@@ -1,2 +1,2 @@
 # swipes
-Labelling image data
+Labeling image data
