@@ -1,6 +1,6 @@
 {
   "needsTutorial": false,
-  "manifestUrl": "https://raw.githubusercontent.com/gbarl/swipes/master/challengingManifest.json",
+  "manifestUrl": "https://raw.githubusercontent.com/gbarl/swipes/master/testManifest.json",
   "manifestType": "json",
   "widgetType": "ImageSwipe",
   "widgetProperties": {
